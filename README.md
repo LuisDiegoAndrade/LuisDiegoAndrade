@@ -1,4 +1,4 @@
-<marquee> Hi there 👋 </marquee>
+<div style="color: red"> Hello! </div>
 
 <!--
 **LuisDiegoAndrade/LuisDiegoAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
